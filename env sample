@@ -1,0 +1,22 @@
+# Ewa Customer Support Automation - Environment Variables Template
+# Copy this file to .env and fill in your actual API keys
+
+# Pinecone Vector Database Configuration
+PINECONE_API_KEY=your_pinecone_api_key_here
+PINECONE_INDEX=your_pinecone_index_name_here
+
+# Cohere AI Configuration
+COHERE_API_KEY=your_cohere_api_key_here
+
+# AWS Configuration (Optional - for local development)
+AWS_REGION=us-east-1
+AWS_ACCESS_KEY_ID=your_aws_access_key_here
+AWS_SECRET_ACCESS_KEY=your_aws_secret_key_here
+
+# Lambda Function Configuration
+LAMBDA_FUNCTION_URL=https://your-lambda-function-url.lambda-url.us-east-1.on.aws/
+API_GATEWAY_URL=https://your-api-gateway.execute-api.us-east-1.amazonaws.com/prod/chat
+
+# Application Configuration
+DEBUG=true
+LOG_LEVEL=INFO 
