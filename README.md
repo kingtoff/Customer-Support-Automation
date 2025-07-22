@@ -211,32 +211,6 @@ http://localhost:8000/test_connection.html
 - **Staging**: AWS with test data
 - **Production**: AWS with production data and monitoring
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Pinecone** for vector database services
-- **Cohere** for AI text generation
-- **AWS** for serverless infrastructure
-- **Font Awesome** for UI icons
-
-## 📞 Support
-
-For support and questions:
-- Create an issue in this repository
-- Contact: [your-email@example.com]
-- Documentation: [docs/](docs/)
-
----
 
 **Built with ❤️ for Ewa Barbing Platform** 
